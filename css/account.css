@@ -1,0 +1,29 @@
+.account {
+	width:60%;
+	margin:0px auto;
+	font-family: sans-serif;
+	color:#80AF80;
+	background: rgba(47,79,79,0.5);
+    padding: 20px;
+    line-height: 25px;
+    border-radius: 10px;
+}
+.acc-block {
+	display:block;
+}
+.acc-title {
+	width:200px;
+	text-align: left;
+	font-weight: bold; 
+}
+.acc-fullname,
+.acc-login,
+.acc-email,
+.acc-password,
+.acc-isadmin {
+	text-align: left;
+	font-style: italic;
+}
+.acc-borrowed {
+    padding-top:20px;
+}

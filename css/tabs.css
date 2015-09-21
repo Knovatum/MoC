@@ -1,0 +1,58 @@
+.tabs input[type=radio] {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+}
+.tabs {
+	width: 400px;
+	list-style: none;
+	position: relative;
+	margin: 75px auto;
+}
+.tabs li{
+	float: left;
+}
+.tabs label {
+	display: block;
+	padding: 10px 20px;
+	border-radius: 25px 5px 0 0;
+	color: #E85151;
+	font-size: 21px;
+	font-weight: normal;
+	font-family: 'feastOfFlesh', helveti;
+	cursor: pointer;
+	position: relative;
+	top: 3px;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+.tabs label:hover {
+	background: rgba(0,253,21,0.5);
+	top: 0;
+}
+
+[id^=tab]:checked + label {
+	background: #8D1D1D;
+	color: white;
+	top: 0;
+}
+
+[id^=tab]:checked ~ [id^=tab-content] {
+	display: block;
+}
+.tab-content{
+	display: none;
+	width: 100%;
+	background: rgba(51,51,51,0.8);
+    border-radius: 0px 20px;
+	position: absolute;
+	top: 53px;
+	left: 0;
+	box-sizing: border-box;
+	-webkit-animation-duration: 0.5s;
+	-o-animation-duration: 0.5s;
+	-moz-animation-duration: 0.5s;
+	animation-duration: 0.5s;
+}

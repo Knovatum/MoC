@@ -1,0 +1,18 @@
+[
+	{
+		"login":"master",
+		"name":"Sheldon",
+		"lastName":"Cooper",
+		"email":"sheldon.cooper@gmail.com",
+		"password":"bazinga",
+		"isAdmin":true
+	},
+	{
+		"login":"guest",
+		"name":"Sin",
+		"lastName":"Admin",
+		"email":"guest.noname@gmail.com",
+		"password":"guest",
+		"isAdmin":false
+	}
+]

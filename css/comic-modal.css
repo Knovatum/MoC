@@ -1,0 +1,97 @@
+.close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 35px;
+    height: 30px;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+}
+.mask {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(52, 73, 94, 0.8);
+    z-index: 50;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.7s;
+}
+.modal {
+    position: fixed;
+    top: 38%;
+    left: 38%;
+    width: 800px;
+    margin-left: -200px;
+    margin-top: -150px;
+    background: #bdc3c7;
+    z-index: 100;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.5s ease-out;
+    transform: translateY(45px);
+    padding: 40px 20px 20px 20px;
+    font-family: Sans-serif;
+    font-size: 16px;
+    color: #1F023C;
+    border-radius: 5px;
+}
+.active {
+    visibility: visible;
+    opacity: 1;
+}
+.active + .modal {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+}
+.cmodal {
+    box-sizing: border-box;
+    line-height: 25px;
+}
+.cmodal .cmodal-fig {
+    float:left;
+}
+.cmodal .cmodal-fig img {
+    width:216px;
+    height: 324px;
+}
+.cmodal .cmodal-fig .cmodal-avail{
+    float:left;
+    font-weight: bold;
+    font-size: 21px;
+    transform: translateY(15%);
+    height: 40px;
+}
+.cmodal .cmodal-fig .cmodal-avail.available {
+    color:green;
+}
+.cmodal .cmodal-fig .cmodal-avail.unavailable {
+    color:red;
+}
+.cmodal .cmodal-fig .cmodal-borrow {
+    float:right;
+    border: darkgray solid 1px;
+    border-radius: 5px;
+    padding: 5px;
+    width: 70px;
+    text-align: center;
+    cursor: pointer;
+}
+.cmodal .cmodal-info {
+    display: inline-block;
+    padding: 0px 10px;
+    max-width: 544px;
+}
+.cmodal .cmodal-info .cmodal-key {
+    font-weight: bold;
+    width:100px;
+    float: left;
+}
+.cmodal .cmodal-info .cmodal-key.cmodal-title {
+    width:100%;
+}

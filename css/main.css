@@ -1,0 +1,129 @@
+@import url('comic-modal.css');
+
+.container .main-bg {
+    width: 80%;
+    min-height: 100%;
+    margin: 0px auto 0px auto;
+    background: rgba(0, 0, 0,0.8);
+    position: relative;
+}
+
+.container .main-bg header{
+	margin-top:0px;
+	padding-top: 40px;
+}
+
+.container .main-bg header h1.title {
+    -webkit-transform: rotate(0deg) skew(-25deg, 0);
+    -ms-transform: rotate(0deg) skew(-25deg, 0);
+    transform: rotate(0deg) skew(-25deg, 0);
+}
+/***** TOP DE CODROPS ********/
+/****************************/
+.codrops-top ul {
+  display: inline;
+  list-style: none;
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+.codrops-top ul li {
+  position: relative;
+  cursor: pointer;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+}
+.codrops-top ul li:hover {
+  background: #555;
+  color: #fff;
+}
+.codrops-top ul li ul {
+  position: absolute;
+  top: 35px;
+  width: 150px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transiton: opacity 0.2s;
+  -moz-transition: opacity 0.2s;
+  -ms-transition: opacity 0.2s;
+  -o-transition: opacity 0.2s;-
+  transition: opacity 0.2s;
+}
+.codrops-top ul li ul li {
+  background: #555;
+  display: block;
+  color: #fff;
+  text-shadow: 0 -1px 0 #000;
+  font-family: "feastOfFlesh", Arial, sans-serif;
+  padding-left: 10px;
+}
+.codrops-top ul li ul li:hover { background: #666; }
+.codrops-top ul li:hover ul {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+}
+/***** FIN TOP DE CODROPS ****/
+/****************************/
+.ico-admin {
+    background: url("../images/daredevil.ico");
+    background-size: cover;
+    width: 35px;
+    height: 35px;
+    float: left;
+}
+
+.ico-guest {
+    background: url("../images/hulk.ico");
+    background-size: cover;
+    width: 35px;
+    height: 35px;
+    float: left;
+}
+/****** ASIDE DE MENUS *******/
+/****************************/
+aside[class^="aside"] {
+  border-radius: 5px;
+  width:200px;
+  text-align: center;
+}
+.aside-left {
+  float:left;
+  height:500px;
+  background:rgba(154,4,17,0.8);
+}
+/**** FIN ASIDE DE MENUS *****/
+/****************************/
+/***** ASIDE DE POPULAR ******/
+/****************************/
+.aside-right {
+  float:right;
+  height:650px;
+  background:rgba(0,0,80,0.5);
+  color: #9A0411;
+}
+aside.aside-right h2 {
+    padding-top: 20px;
+    text-decoration: underline;
+}
+aside.aside-right h3 {
+  margin-top:10px;
+}
+.recommended img {
+  width:150px;
+  height: 227px;
+}
+.searched img,
+.popular img {
+  width:75px;
+  height: 103px;
+}
+/*** FIN ASIDE DE POPULAR ****/
+/****************************/

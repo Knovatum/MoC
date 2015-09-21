@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "deathRattle";
+  src: url('../font/deathrattle/deathrattlebb_reg.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "feastOfFlesh";
+  src: url('../font/feast-of-flesh/fofbb_ital.otf') format('otf'), 
+  url('../font/feast-of-flesh/fofbb_ital.ttf') format('truetype');
+  src: url('../font/feast-of-flesh/fofbb_reg.otf') format('otf'), 
+  url('../font/feast-of-flesh/fofbb_reg.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

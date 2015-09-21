@@ -1,0 +1,128 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+		<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <title>MOC</title>
+        <meta name="description" content="Master of Comics" />
+        <meta name="keywords" content="css3, html5, javascript" />
+        <meta name="author" content="federico seco" />
+        <link rel="shortcut icon" href="images/daredevil.ico"> 
+        <link rel="stylesheet" type="text/css" href="css/animate.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <link rel="stylesheet" type="text/css" href="css/login.css" />
+        <link rel="stylesheet" type="text/css" href="css/tabs.css" />
+		<script src="js/external/modernizr.custom.63321.js"></script>
+		<script src="js/external/jquery-2.1.4.min.js"></script>
+		<script src="js/external/underscore-min.js"></script>
+		<script src="js/external/require.js"></script>
+		<script src="js/external/require.config"></script>
+		<script src="js/lib/pre-creation.js"></script>
+		<script src="js/lib/login.js"></script>
+		<script src="js/lib/register.js"></script>
+		<!--[if lte IE 7]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
+    </head>
+    <body>
+        <div class="container">
+			<div class="bg-img-left"></div>
+			<div class="bg-img-right"></div>
+			<!-- Codrops top bar -->
+            <div class="codrops-top">
+                <a href="http://www.ingenieriadeprogreso.com/">
+                    <strong>&laquo; Blog Personal: </strong>Ingeniería de Progreso
+                </a>
+                <span class="right">
+                    <a href="">
+                        <strong>Sobre el autor</strong>
+                    </a>
+                </span>
+            </div><!--/ Codrops top bar -->
+			
+			<header>
+			
+				<h1 class="title">Master Of Comics</h1>
+				<h2 class="horror-text">Tú eres el amo</h2>
+				
+				<div class="support-note">
+					<span class="note-ie">Uy, esto es sólo para browsers modernos.</span>
+				</div>
+				
+			</header>
+			
+			<section class="main">
+				<ul class="tabs">
+			        <li>
+			          <input type="radio" checked name="tabs" id="tab1">
+			          <label for="tab1">Login</label>
+			          <div id="tab-content1" class="tab-content">
+			            <div class="animated  bounceInDown">
+		              		<form class="form-login" id="form-login" method="post">
+								<p class="field">
+									<input type="text" name="login" placeholder="Usuario o email">
+									<i class="icon-user icon-large"></i>
+								</p>
+									<p class="field">
+										<input type="password" name="password" placeholder="Contraseña">
+										<i class="icon-lock icon-large"></i>
+								</p>
+								<p class="submit">
+									<button type="submit" name="submit"><i class="icon-arrow-right icon-large"></i></button>
+								</p>
+								<span class="login-err-msg">El usuario/contraseña es incorrecto</span>
+							</form>
+			            </div>
+			          </div>
+			        </li>
+			        <li>
+			          <input type="radio" name="tabs" id="tab2">
+			          <label for="tab2">Registro</label>
+			          <div id="tab-content2" class="tab-content">
+			            <div class="animated  bounceInDown">
+		              		<form class="form-login" id="form-register" method="post">
+								<p class="field">
+									<input type="text" name="login" placeholder="Usuario">
+									<i class="icon-user icon-large"></i>
+								</p>
+								<p class="field">
+									<input type="text" name="first-name" placeholder="Nombre">
+									<i class="icon-user icon-large"></i>
+								</p>
+								<p class="field">
+									<input type="text" name="last-name" placeholder="Apellido">
+									<i class="icon-user icon-large"></i>
+								</p>
+								<p class="field">
+									<input type="email" name="email" placeholder="Email">
+									<i class="icon-envelope icon-large"></i>
+								</p>
+								<p class="field">
+										<input type="password" name="password" placeholder="Contraseña">
+										<i class="icon-lock icon-large"></i>
+								</p>
+								</p>
+									<p class="field">
+										<input type="password" name="password-repeat" placeholder="Repite la contraseña">
+										<i class="icon-lock icon-large"></i>
+								</p>
+								<p class="submit">
+									<button type="submit" name="submit"><i class="icon-arrow-right icon-large"></i></button>
+								</p>
+								<p class="checkbox-admin">
+									<label class="admin"><input name="admin" type="checkbox">
+										<span>Quiero ser administrador</span>
+									</label>	
+								</p>
+							</form>
+			            </div>
+			          </div>
+			        </li>
+			    </ul>
+			    <div class="mask" role="dialog"></div>
+				<div class="modal" role="alert">
+				  <button class="close" role="button">X</button>
+				</div>
+			</section>
+        </div>
+    </body>
+</html>

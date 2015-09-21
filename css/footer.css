@@ -1,0 +1,153 @@
+/*===========================
+START // Footer
+============================*/
+footer {
+  width: 100%;
+  margin: 0;
+}
+footer > .top,
+footer > .bottom {
+  width: 100%;
+  margin: 0 auto;
+  display: inline-block;
+  padding: 0 1em;
+}
+footer > .top {
+  background: #222;
+  margin-bottom: -4px;
+}
+footer > .top .inner h1 {
+  color: #fff;
+}
+footer > .top .inner h4 {
+  color: #fff;
+  font-weight: 400;
+  margin: 1em 0 0;
+  font-size: 1.5em;
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.5);
+}
+footer > .top .inner p,
+footer > .top .inner ul,
+footer > .top .inner ul li {
+  color: #ccc;
+  font-weight: 400;
+  font-family: 'Happy Monkey', cursive;
+  font-size: .9em;
+}
+footer > .top .inner p {
+  font-size: .75em;
+}
+footer > .top .inner ul {
+  margin: .25em 0 1em;
+}
+footer > .top .inner ul,
+footer > .top .inner ul li {
+  list-style: none;
+  margin-left: 0;
+  line-height: 1.5em;
+  padding-left: 0;
+}
+footer > .top .inner ul li a:hover {
+  color: #ffce55;
+  text-decoration: none;
+  cursor: pointer;
+}
+footer > .top .inner .quarter {
+  width: 21.5%;
+  padding: 2em .25em 2em 1.85em;
+}
+footer > .top .inner .quarter:last-child {
+  padding-right: 1em;
+}
+footer > .top .inner .quarter:not(.company) ul li {
+  width: 48%;
+  padding: 0 1%;
+  float: left;
+}
+footer > .top .inner .quarter.company {
+  padding-left: 1em;
+  width: 21.75%;
+  border-right: 3px solid rgba(255, 255, 255, 0.2);
+  background: #000;
+}
+footer > .top .inner .quarter.company .logo-square {
+  width: 50%;
+}
+footer > .top .inner .quarter.company .logo {
+  width: 90%;
+  margin: 0 auto 1em;
+}
+footer > .top .inner .quarter.company h1 {
+  margin-top: 0;
+  font-weight: 400;
+}
+footer > .top .inner .quarter.company h1 > span {
+  color: #038ecf;
+  letter-spacing: -1em;
+  margin: 0 .5em 0 .6em;
+}
+footer > .top .inner .quarter.company p {
+  margin: 0 0 1em;
+  font-size: 1em;
+  color: #ffce55;
+  display: none;
+}
+footer > .top .inner .quarter.company ul li {
+  float: left;
+  margin: 0 1.5em .75em 0;
+  padding: 0 .4em .25em;
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.25);
+  color: #222;
+  border-bottom-color: #038ecf;
+}
+footer > .bottom {
+  background: #333;
+  margin-bottom: -10px;
+}
+footer > .bottom .inner p {
+  font-size: .75em;
+  color: #acacac;
+}
+footer > .bottom .inner .half {
+  width: 45%;
+  margin: .5em 1em;
+}
+footer > .bottom .inner .right {
+  text-align: right;
+}
+/* LAYOUT */
+footer .inner {
+  max-width: 1003px;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+}
+
+footer .left {
+  float: left;
+}
+
+footer .right {
+  float: right;
+}
+
+/* TYPOGRAPHY */
+footer h1,
+footer h2,
+footer h3,
+footer h4,
+footer h5 {
+  font-family: "Bangers", sans-serif;
+  color: #222;
+}
+
+footer p,
+footer ul,
+footer li,
+footer ol {
+  font-family: 'Happy Monkey', cursive;
+  color: #222;
+}
+/*===========================
+END // Footer
+============================*/

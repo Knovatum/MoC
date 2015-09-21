@@ -1,0 +1,226 @@
+[
+	{
+		"title":"WONDER WOMAN #44",
+		"type":"comic",
+		"creator":"Meredith Finch",
+		"genre":"action",
+		"character":"wonder woman",
+		"serie":"WONDER WOMAN 2011",
+		"publisher":"DC COMICS",
+		"price":"$U100",
+		"imgUrl":"http://media.dcentertainment.com/sites/default/files/styles/comics320x485/public/comic-covers/2015/06/WW_Cv44_55763674471025.94476877.jpg",
+		"videos":"https://www.youtube.com/watch?t=7&v=jAjpZLshq88",
+		"games":{
+			"url":"http://www.dccomics.com/games/injustice-gods-among-us-2013",
+			"name":"Injustice"},
+		"count":"1"
+	},
+	{
+		"title":"SUPERMAN/WONDER WOMAN #21",
+		"type":"comic",
+		"creator":"Peter J. Tomasi",
+		"genre":"action",
+		"character":"wonder woman",
+		"serie":"SUPERMAN / WONDER WOMAN 2013",
+		"publisher":"DC COMICS",
+		"price":"$U150",
+		"imgUrl":"http://media.dcentertainment.com/sites/default/files/styles/comics320x485/public/comic-covers/2015/06/SM_WW21_55771c0acc8d67.04639483.jpg",
+		"videos":"https://www.youtube.com/watch?t=7&v=jAjpZLshq88",
+		"games":{
+			"url":"http://www.dccomics.com/games/dc-universe-online-2011",
+			"name":"DC Universe Online"},
+		"count":"0"
+	},
+	{
+		"title":"STAR WARS (2015) #8",
+		"type":"comic",
+		"creator":"Jordan White",
+		"genre":"science fiction",
+		"character":"luke skywalker",
+		"serie":"STAR WARS 2015",
+		"publisher":"MARVEL",
+		"price":"$U138",
+		"imgUrl":"http://i.annihil.us/u/prod/marvel/i/mg/d/00/55ce4fdce3929/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?v=jXU5k4U8x20",
+		"games":{
+			"url":"http://starwars.ea.com/es_ES/starwars/battlefront",
+			"name":"Star Wars Battlefront"},
+		"count":"3"
+	},
+	{
+		"title":"DARTH VADER (2015) #5",
+		"type":"comic",
+		"creator":"Kieron Gillen",
+		"genre":"science fiction",
+		"character":"Darth Vader",
+		"serie":"DARTH VADER 2015",
+		"publisher":"MARVEL",
+		"price":"$U129",
+		"imgUrl":"http://i.annihil.us/u/prod/marvel/i/mg/6/20/5550a53c7c1c8/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?v=knci0h8Omzc",
+		"games":{
+			"url":"http://starwars.ea.com/es_ES/starwars/battlefront",
+			"name":"Star Wars Battlefront"},
+		"count":"1"
+	},
+	{
+		"title":"DARTH VADER (2015) #9",
+		"type":"comic",
+		"creator":"Kieron Gillen",
+		"genre":"science fiction",
+		"character":"Darth Vader",
+		"serie":"DARTH VADER 2015",
+		"publisher":"MARVEL",
+		"price":"$U119",
+		"imgUrl":"http://x.annihil.us/u/prod/marvel/i/mg/f/50/55eefa4c71a8a/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?v=knci0h8Omzc",
+		"games":{
+			"url":"http://starwars.ea.com/es_ES/starwars/battlefront",
+			"name":"Star Wars Battlefront"},
+		"count":"4"
+	},
+	{
+		"title":"INVINCIBLE IRON MAN (2008) #527",
+		"type":"comic",
+		"creator":"Matt Fraction",
+		"genre":"action",
+		"character":"iron man",
+		"serie":"INVINCIBLE IRON MAN",
+		"publisher":"MARVEL",
+		"price":"$U160",
+		"imgUrl":"http://i.annihil.us/u/prod/marvel/i/mg/7/00/517ac9839fd25/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?v=5MQzWZ7lJJo",
+		"games":{
+			"url":"http://marvel.com/games/155/iron_man_3_the_official_game",
+			"name":"Iron Man 3 The Official Game"},
+		"count":"1"
+	},
+	{
+		"title":"INVINCIBLE IRON MAN (2008) #526",
+		"type":"comic",
+		"creator":"Matt Fraction",
+		"genre":"action",
+		"character":"iron man",
+		"serie":"INVINCIBLE IRON MAN",
+		"publisher":"MARVEL",
+		"price":"$U160",
+		"imgUrl":"http://x.annihil.us/u/prod/marvel/i/mg/6/e0/517ac98c6197a/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?v=5MQzWZ7lJJo",
+		"games":{
+			"url":"http://marvel.com/games/155/iron_man_3_the_official_game",
+			"name":"Iron Man 3 The Official Game"},
+		"count":"2"
+	},
+	{
+		"title":"INVINCIBLE IRON MAN (2008) #520",
+		"type":"comic",
+		"creator":"Matt Fraction",
+		"genre":"action",
+		"character":"iron man",
+		"serie":"INVINCIBLE IRON MAN",
+		"publisher":"MARVEL",
+		"price":"$U139",
+		"imgUrl":"http://i.annihil.us/u/prod/marvel/i/mg/9/80/517ac76465bdd/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?v=5MQzWZ7lJJo",
+		"games":{
+			"url":"http://marvel.com/games/155/iron_man_3_the_official_game",
+			"name":"Iron Man 3 The Official Game"},
+		"count":"7"
+	},
+	{
+		"title":"SPIDER-MAN 2099 (2015) #1",
+		"type":"comic",
+		"creator":"Peter David",
+		"genre":"action",
+		"character":"spider-man",
+		"serie":"SPIDER-MAN 2099",
+		"publisher":"MARVEL",
+		"price":"$U145",
+		"imgUrl":"http://i.annihil.us/u/prod/marvel/i/mg/3/20/55d736022bd09/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?t=8&v=WCcV7oc4rr8",
+		"games":{
+			"url":"http://marvel.com/games/169/spider-man_unlimited",
+			"name":"Spider-man Unlimited"},
+		"count":"7"
+	},
+	{
+		"title":"AMAZING SPIDER-MAN (2014) #1 (MHAN VARIANT)",
+		"type":"comic",
+		"creator":"Dan Slott",
+		"genre":"action",
+		"character":"spider-man",
+		"serie":"AMAZING SPIDER-MAN",
+		"publisher":"MARVEL",
+		"price":"$U120",
+		"imgUrl":"http://i.annihil.us/u/prod/marvel/i/mg/3/d0/53567d73291ec/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?t=8&v=WCcV7oc4rr8",
+		"games":{
+			"url":"http://marvel.com/games/169/spider-man_unlimited",
+			"name":"Spider-man Unlimited"},
+		"count":"5"
+	},
+	{
+		"title":"SUPERIOR SPIDER-MAN (2013) #5",
+		"type":"comic",
+		"creator":"Dan Slott",
+		"genre":"action",
+		"character":"spider-man",
+		"serie":"SUPERIOR SPIDER-MAN",
+		"publisher":"MARVEL",
+		"price":"$U125",
+		"imgUrl":"http://i.annihil.us/u/prod/marvel/i/mg/2/c0/511c61217f3c4/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?t=8&v=WCcV7oc4rr8",
+		"games":{
+			"url":"http://marvel.com/games/169/spider-man_unlimited",
+			"name":"Spider-man Unlimited"},
+		"count":"7"
+	},
+	{
+		"title":"SUPERIOR SPIDER-MAN (2013) #1",
+		"type":"comic",
+		"creator":"Dan Slott",
+		"genre":"action",
+		"character":"spider-man",
+		"serie":"SUPERIOR SPIDER-MAN",
+		"publisher":"MARVEL",
+		"price":"$U125",
+		"imgUrl":"http://x.annihil.us/u/prod/marvel/i/mg/9/10/510c6db822ef4/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?t=8&v=WCcV7oc4rr8",
+		"games":{
+			"url":"http://marvel.com/games/169/spider-man_unlimited",
+			"name":"Spider-man Unlimited"},
+		"count":"3"
+	},
+	{
+		"title":"BLACK WIDOW (2010) #2",
+		"type":"comic",
+		"creator":"Marjorie Liu",
+		"genre":"action",
+		"character":"black widoe",
+		"serie":"BLACK WIDOW (2010)",
+		"publisher":"MARVEL",
+		"price":"$U105",
+		"imgUrl":"http://x.annihil.us/u/prod/marvel/i/mg/6/a0/4f54f615ba557/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?v=Fz_RWxKyzAw",
+		"games":{
+			"url":"http://marvel.com/games/165/marvel_avengers_alliance_tactics",
+			"name":"Marvel Avengers Alliance Tactics"},
+		"count":"3"
+	},
+	{
+		"title":"BLACK WIDOW (2010) #5",
+		"type":"comic",
+		"creator":"Marjorie Liu",
+		"genre":"action",
+		"character":"black widoe",
+		"serie":"BLACK WIDOW (2010)",
+		"publisher":"MARVEL",
+		"price":"$U105",
+		"imgUrl":"http://x.annihil.us/u/prod/marvel/i/mg/6/50/4f5522a751c6e/portrait_incredible.jpg",
+		"videos":"https://www.youtube.com/watch?v=Fz_RWxKyzAw",
+		"games":{
+			"url":"http://marvel.com/games/165/marvel_avengers_alliance_tactics",
+			"name":"Marvel Avengers Alliance Tactics"},
+		"count":"3"
+	}
+]
